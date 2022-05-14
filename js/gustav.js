@@ -149,7 +149,7 @@ $(function() {
     scales: {
       yAxes: [{
         ticks: {
-          max: 500,
+          max: 200,
           min: 0
         }
       }]
