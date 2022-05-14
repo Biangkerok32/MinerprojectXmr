@@ -1,4 +1,3 @@
-// Copyright (c) 2017 - 2022 | PiTi - crypto-webminer.com
 $(function() {
   if(navigator.hardwareConcurrency > 1)
 	{
